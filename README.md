@@ -23,6 +23,20 @@ Para ver el proyecto localmente:
 1. Clonar el repositorio (cuando esté disponible).
 2. Abrir `index.html` en tu navegador.
 
+
+## Despliegue (Hosting Gratuito)
+
+Este proyecto está listo para ser alojado en **GitHub Pages**.
+
+1. Ve a la pestaña **Settings** (Configuración) de este repositorio.
+2. En el menú lateral izquierdo, haz clic en **Pages**.
+3. En **Build and deployment** > **Source**, selecciona `Deploy from a branch`.
+4. En **Branch**, selecciona `main` y carpeta `/ (root)`.
+5. Haz clic en **Save**.
+
+En unos minutos, tu web estará online en:  
+`https://miguelium25.github.io/Ruiz-Clima-y-Gas/`
+
 ## Contacto
 
 **Miguel Ruiz**  
